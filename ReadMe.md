@@ -3,8 +3,6 @@
   <img src="Hi.gif" width="40px" />
 </h1>
 
-<br/>
-<br/>
 # 💻 Tech Stack:
 
 ### Languages:
