@@ -18,6 +18,12 @@
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
+### Cryptocurrency :
+
+https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white
+https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IHW-TS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
